@@ -1,2 +1,2 @@
 1.0.0
-https://github.com/D3f4ultscript/Zenk-RobloxMultipleInstance/releases/download/Zenk/Zenk-MultipleInstances-v1-1a.exe
+https://github.com/D3f4ultscript/Zenk-RobloxMultipleInstance/releases/download/Zenk/ZenkLauncher.exe
