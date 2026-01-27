@@ -1,2 +1,2 @@
-1.1.0
-https://github.com/D3f4ultscript/Zenk-RobloxMultipleInstance/releases/download/Zenk/Multiple.Instances.exe
+1.2.0
+https://github.com/D3f4ultscript/Zenk-RobloxMultipleInstance/releases/download/Zenk/Multiple.Instance.exe
