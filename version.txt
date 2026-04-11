@@ -1,2 +1,2 @@
-1.2.2
-https://download1652.mediafire.com/73h4iveeaxtg1izZbuG3R9Cdar3-I7fzJvg8QwTJNvvFgIJfgOjgziMtNOzk2YVlvO8YRZ60InemcV5JfDlQsvdIi8aXpAPpi-t0bsJQlXvXsjLKVA75-FC6eoOnpAoQWRxiweWYofrJey2Sqx7FpefcTZrnuB6DGxMuh_IR1hfd/j7c6xgexay9nies/Multiple+Instance.exe
+v1.1.0
+https://github.com/D3f4ultscript/Zenk-RobloxMultipleInstance/releases/download/v1.1.0/Zenk.Multiple.Instances.exe
